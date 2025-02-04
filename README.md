@@ -24,7 +24,7 @@
 </div><br>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varsha620&theme=jolly&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varsha620&theme=jolly&hide_border=false"/>
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varsha620&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="495" height="195" />
 </p>
