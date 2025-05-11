@@ -6,6 +6,7 @@
   <p>🔥 Music fuels my creativity—whether I'm deep in code or brainstorming the next big idea, my playlist is always on, setting the tempo for my endless curiosity.</p>
   <p>🤯 I believe in building projects that make an impact, learning relentlessly, and enjoying every step of the journey. Let's collaborate and create something extraordinary!</p>
   <p><strong>Tech, music, and problem-solving—my kind of harmony 🧘‍♂️.</strong></p>
+  <p>Still curious? <a href="https://vaarsz-dev.netlify.app">Visit my portfolio</a></p>
 </div>
 
 ## 🌐 Socials:
