@@ -1,6 +1,8 @@
+<b><p>Checkout my portfolio <a href="https://vaarsz-dev.netlify.app">vaarsz-dev.netlify.app</a></p></b>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=200&color=956FFF&center=true&vCenter=true&width=800&lines=Hello+There+%2C+Varsha+Here!%F0%9F%98%8C)](https://git.io/typing-svg)
 
-<p>Checkout my portfolio : <a href="https://vaarsz-dev.netlify.app">https://vaarsz-dev.netlify.app</a></p>
+
 <br/>
 
 # 👩‍💻 About Me
@@ -42,23 +44,34 @@ Lets create and upgrade the world.🎧✨
 <p>
   <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+</p><br/>
 
 
-
-
-## 📊 GitHub Stats:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Varsha620&theme=jolly&hide_border=false&include_all_commits=true&count_private=true" />
-</div><br>
+# ⚡Github Pulse:
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varsha620&theme=jolly&hide_border=false"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varsha620&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="495" height="195" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varsha620&bg_color=000000&color=9b59b6&line=8e44ad&point=9b59b6&area=true&hide_border=true&custom_title=Coding+O'Clock😌" alt="GitHub Activity Graph" />
 </p>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Varsha620&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160" />
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Varsha620&theme=radical&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varsha620&layout=compact&theme=radical&hide_border=true" height="160" />
+</p>
+
+---
+
+<p align="center">
+    <a href="https://www.buymeacoffee.com/varsz_here" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+  </a>
+</p
+
 
 
