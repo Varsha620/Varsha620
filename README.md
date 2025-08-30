@@ -1,28 +1,52 @@
-
-
-
-# 😌 About Me:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=200&color=956FFF&center=true&vCenter=true&width=800&lines=Hello+There+%2C+Varsha+Here!%F0%9F%98%8C)](https://git.io/typing-svg)
 
 <p>Checkout my portfolio : <a href="https://vaarsz-dev.netlify.app">https://vaarsz-dev.netlify.app</a></p>
+<br/>
 
-<div>
-  <img align="right" src="https://github.com/user-attachments/assets/094168d9-b4c9-4851-8747-d743143cbf13" width="200" hieght="300" />
-  # Hi 👋 I'm YOUR NAME
+# 👩‍💻 About Me
 
-![Metrics](https://github.com/Varsha620/Varsha620/blob/main/github-metrics.svg)
+Curious and driven creator, passionate about turning real-world problems into impactful solutions.  
+Love to introduce myself as <b>"your coder next door❤️"</b>- always ready to build, learn, and share.<br/>
+Lets create and upgrade the world.🎧✨
+<br/>
 
-  <p>👨‍💻 Sup tech-heads! Myself a passionate and curious developer who thrives on turning real-world problems into innovative solutions.</p>
-  <p>🔥 Music fuels my creativity—whether I'm deep in code or brainstorming the next big idea, my playlist is always on, setting the tempo for my endless curiosity.</p>
-  <p>🤯 I believe in building projects that make an impact, learning relentlessly, and enjoying every step of the journey. Let's collaborate and create something extraordinary!</p>
-  <p><strong>Tech, music, and problem-solving—my kind of harmony 🧘‍♂️.</strong></p>
-</div>
+<p align="left">
+  <span style="font-size:30px; font-weight:bold;"><b>Let's talk : </b>
+  <a href="https://instagram.com/varsha_vsmt" style="margin-right:30px;">
+    <img src="https://skillicons.dev/icons?i=instagram" width="20" />
+  </a>
+  <a href="https://www.linkedin.com/in/varsha-sabu/" style="margin-right:20px;">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="20" />
+  </a>
+  <a href="https://x.com/vars04" style="margin-right:20px;">
+    <img src="https://skillicons.dev/icons?i=twitter" width="20" />
+  </a>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/varsha_vsmt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/varsha-sabu-663225255/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vars04) 
+
+<br/>
+
+# 🛠️Tool Box:
+
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+**Tools & Platforms**
+<p>
+  <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)<br/><br/> ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)  ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)<br/><br/> ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  <br/><br/>![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
 ## 📊 GitHub Stats:
