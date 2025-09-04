@@ -1,4 +1,4 @@
-<b><p>Checkout my portfolio <a href="https://vaarsz-dev.netlify.app">vaarsz-dev.netlify.app</a></p></b><br/>
+<b><p>Checkout my portfolio <a href="https://varshasabu-portfolio.netlify.app">varshasabu-portfolio.netlify.app</a></p></b><br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=200&color=956FFF&center=true&vCenter=true&width=800&lines=Hello+There+%2C+Varsha+Here!%F0%9F%98%8C)](https://git.io/typing-svg)
 
