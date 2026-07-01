@@ -23,7 +23,7 @@
 B.Tech IT graduate (Honors in Cyber Security) who loves turning messy real-world problems into clean, reliable software. I build backend systems — APIs, auth flows, database schemas — and ship full-stack products that work end-to-end.
 
 -  **Hackathon winner** (Tink-her 2025) and **semifinalist** (Hack4Change, Google × The Nudge Institute 2024)
--  Currently building: **[SolveStack](https://varsha620.github.io/SolveStack-final/)** — a problem discovery platform powered by FastAPI + PostgreSQL
+-  Currently building: **[Goldland Software](https://github.com/Varsha620/Goldland)** — a modern ERP solution designed to digitize and streamline jewellery store operations.
 -  Focused on: backend architecture, API design, and writing code that's actually maintainable
 -  Open to: backend, full-stack, and software engineering roles
 
