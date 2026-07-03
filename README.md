@@ -64,7 +64,7 @@ B.Tech IT graduate (Honors in Cyber Security) who loves turning messy real-world
 | Project | Stack | What it does |
 |---|---|---|
 | [**SolveStack**](https://varsha620.github.io/SolveStack-final/) | FastAPI · PostgreSQL · JWT · React · Docker | Automates discovery & categorization of real-world problems into structured, searchable project ideas |
-| [**DeepGuard**](https://deepgaurddeepfakedetection.streamlit.app) | PyTorch · Hugging Face · Streamlit · OpenCV | AI-powered media scanner that flags potentially deepfaked images and videos |
+| [**DeepGuard**](https://github.com/Varsha620/Deepfake_detection/) | PyTorch · Hugging Face · Streamlit · OpenCV | AI-powered media scanner that flags potentially deepfaked images and videos |
 | [**Cake Shop System**](https://github.com/Varsha620/Eadens_cake_world) | React · Node.js · MongoDB | Full-stack ordering & inventory platform with real-time admin and customer workflows |
 | [**Communo.io**](https://github.com/Varsha620/communo.io) | WebSockets · MongoDB | Real-time chat app with online presence tracking and persistent message history |
 | [**Zoho Reimagined**](https://zoho-reimagined.netlify.app) | HTML · CSS · JS | UI redesign of Zoho with modern motion design and improved visual hierarchy |
