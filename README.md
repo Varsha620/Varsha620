@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=200&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Varsha+Sabu+%F0%9F%91%8B;Backend+Engineer+%7C+Python+%7C+FastAPI;Building+APIs+that+actually+work.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=200&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Varsha+Sabu+%F0%9F%91%8B;pFullStack+Engineer+%7C+Python+%7C+FastAPI;Building+APIs+that+actually+work.)](https://git.io/typing-svg)
 
 **`Software Engineer · Python · FastAPI · REST APIs · PostgreSQL`**
 
